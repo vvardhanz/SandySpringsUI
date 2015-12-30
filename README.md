@@ -1,2 +1,2 @@
 # SandySpringsUI
-Portfolio work with ugender.
+Portfolio work in collaboration ugender.

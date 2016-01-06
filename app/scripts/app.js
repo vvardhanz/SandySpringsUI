@@ -26,11 +26,11 @@ angular
         controller: 'MainCtrl',
         controllerAs: 'main'
       })
-      .when('/', {
-        templateUrl: 'views/about.html',
-        controller: 'AboutCtrl',
-        controllerAs: 'about'
-      })
+      // .when('/', {
+      //   templateUrl: 'views/about.html',
+      //   controller: 'AboutCtrl',
+      //   controllerAs: 'about'
+      // })
       .otherwise({
         redirectTo: '/'
       });
